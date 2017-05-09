@@ -1,7 +1,14 @@
-# Sites Monitoring Utility
+# Скрипт мониторинга сайтов
 
-[TODO. There will be project description]
+Скрипт на вход получет текстовый файл в котором указаны ссылки для проверки сайтов.
 
-# Project Goals
+Для запуска скрипта требуется выполнить команду:
+```{r, engine='bash'}
 
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+$ python check_site_health.py <path to file>
+
+```
+
+# Цели проекта
+
+Код написан для образовательных целей. Учебный курс для веб-разработчиков - [DEVMAN.org](https://devman.org)
